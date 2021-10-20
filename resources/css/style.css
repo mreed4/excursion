@@ -2,6 +2,7 @@ body {
     background-color: black;
     font-family: Verdana;
     text-align: center;
+    color: white;
 }
 
 a {
@@ -12,11 +13,18 @@ a {
 h1 {
     font-weight: normal;
     font-size: 50px;
-    color: white;
 }
 
 h2 {
     font-weight: 300;
     font-size: 42px;
-    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+footer {
+    text-align: right;
+    color: gray;
 }
